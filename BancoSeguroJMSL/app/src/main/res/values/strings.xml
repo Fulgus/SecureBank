@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SecureBank(JMSL)</string>
+    <string name="entrar_btn_text">Entrar</string>
+    <string name="bank_logo_text">Secure Bank</string>
+    <string name="bank_logo_desc">Secure Bank Logo Description</string>
+    <string name="save_user">Recordar usuario</string>
+    <string name="login_btn">Login</string>
+    <string name="username_text">User</string>
+    <string name="password_text">Pass</string>
+    <string name="tu_saldo_text">Tu saldo es:</string>
+    <string name="tu_saldo_display">1.000.000 Euros</string>
+    <string name="save_sd">Guardar en SD</string>
+    <string name="connect_btn">Connect</string>
+</resources>
